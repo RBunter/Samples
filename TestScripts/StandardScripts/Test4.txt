@@ -1,0 +1,41 @@
+0, Penny, "Hi there! I'd like to buy some fruit and vegetables for my family."
+
+1, Pascale, "Hello ma'am! What can I help you with today?"
+
+2, Penny, "I need some apples. Can I get a few pounds of them?"
+
+3, Pascale, "Absolutely! We have Granny Smith and Gala available. Which one would you like?"
+
+4, Penny, "Gala sounds good to me."
+
+5, Pascale, "Great choice! That'll be $2.50 per pound. How many do you need?"
+
+6, Penny, "I think I'll take 3 pounds of the Gala apples."
+
+7, Pascale, "Alrighty then! That's a total of $7.50 for the apples. Now, what about some vegetables? We have carrots in kilograms or lettuce in bunches..."
+
+8, Penny, "Hmm, that sounds confusing. Can you just tell me how much it costs per kilogram?"
+
+9, Pascale, "Ahaha, sorry 'bout that! Yeah, our carrots are $1.20 per kg."
+
+10, Penny, "Okay, I'll take 2 kilograms of those then."
+
+11, Pascale, "Alrighty done! That's a total of $2.40 for the carrots. Now, what about some other veggies? We have bell peppers in pounds or... "
+
+12, Penny, "Wait, do you have any broccoli?"
+
+13, Pascale, "Sorry ma'am, but we don't carry brassicas like broccoli or cauliflower."
+
+14, Penny, "Oh okay, no problem then! What else can I get?"
+
+15, Pascale, "Well, our lettuce is a popular choice. We also have spinach in bunches..."
+
+16, Penny, "I'll take some of that spinach too!"
+
+17, Pascale, "Alrighty done! That's $0.50 per bunch. How many do you need?"
+
+18, Penny, "Just one bunch will be fine."
+
+19, Pascale, "Okay then! So your total comes out to be $7.50 + $2.40 + $0.50 = $10.40"
+
+20, Penny, "Alright, I'll take it all!"

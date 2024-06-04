@@ -1,0 +1,44 @@
+0, system, conversation start
+5, Automated message, "Thank you for calling TIC Groceries in Southampton. How may I direct your call?"
+10, Michael, "Hello, can I please speak to someone in the produce department?"
+15, Automated message, "Certainly. Transferring you now." (Music plays faintly in the background)
+
+Conversation 2 (Phone rings)
+
+20, Brenda, (Brenda answers in a monotone voice) "TIC Groceries, produce department, Brenda speaking. How can I help you today?"
+
+25, Michael, "Hi Brenda, it's Michael here. I'm looking to place an order for some fruit and vegetables for delivery this afternoon."
+
+30, Brenda, "Alright, what can I get you?"
+
+35, Michael, "Great.  Do you have any cabbages in stock?  I was hoping to make some coleslaw."
+
+40, Brenda,  (Checks inventory with a sigh) "Hold on a moment." (muffled conversation)  "Alright, we might be able to find you a cabbage, but it won't be on the invoice."
+
+45, Michael,  "Really?  That would be fantastic!  How much is it?"
+
+50, Brenda,  "Same price as usual.  One kilo for £1.50."
+
+55, Michael,  "Perfect! I'll take one then.  How about apples?  Do you have any Bramley apples?"
+
+60, Brenda,  "We do have Bramley apples, but they're part of our seasonal selection."
+
+65, Michael,  "Since it's a delivery, I wouldn't know the layout of the produce section.  Are there any other apple varieties you can recommend?"
+
+70, Brenda,  "We have a variety of apples available.  Would you like me to read you the list?"
+
+75, Michael,  "That would be helpful, thanks."
+
+76, Brenda,  (Reads a list of apple varieties quickly and monotonously)
+
+85, Michael,  "Alright, that sounds good.  I'll take a kilogram of Golden Delicious apples as well."
+
+90, Brenda,  "Alright, and is there anything else you'd like to order?"
+
+95, Michael,  "No, I think that's all for today.  Thank you for your help, Brenda, especially with the cabbage."
+
+100, Brenda,  "No problem  (whispers) for now.  Your order will be delivered this afternoon.  Is there anything else I can help you with today?"
+
+105, Michael,  "Nope, that's all.  Thanks again."
+
+110, Brenda,  "You're welcome.  Goodbye." (Hangs up)

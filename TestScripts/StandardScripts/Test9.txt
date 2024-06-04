@@ -1,0 +1,37 @@
+0, Pascale, "Welcome to TIC groceries! What can I help you with today?"
+
+1, Lucas, "Hi Pascale! I'm looking for some fruit for a fruit salad. Can I get some suggestions?"
+
+2, Pascale, "Absolutely! We have a wide selection of fruits available. What's your favorite type of fruit?"
+
+3, Lucas, "I love pineapples and grapes. Do you have any pineapples in stock?"
+
+4, Pascale, "We've got 5-6 bunches of fresh pineapple chunks available. Each bunch is about 1 pound."
+
+5, Lucas, "Sounds good! I'll take a few bunches then. Can I get 2 or 3?"
+
+6, Pascale, "That's $2.50 per bunch. So that would be... "
+
+7, Lucas, "Wait, how many pineapples are in each bunch again?"
+
+8, Pascale, "Each bunch has about 12-13 pineapple chunks."
+
+9, Lucas, "Got it! I'll take 3 bunches then."
+
+10, Pascale, "Alrighty then! That's $7.50 for the pineapples. Now, what about some grapes? We have red and green varieties available."
+
+11, Lucas, "I love both actually. Can you show me where they are?"
+
+12, Pascale, "We've got 2 kg of organic red seedless grapes and 1 kg of organic green Thompson grapes available. Would you like to buy them by the kilogram or would you prefer individual bunches?"
+
+13, Lucas, "I think I'll go with a single bunch for now."
+
+14, Pascale, "Alright! That's $2.00 per bunch. So that's a total of... "
+
+15, Lucas, "Wait, how many grapes are in each bunch again?"
+
+16, Pascale, "We have 250g or about half a pound per bunch."
+
+17, Lucas, "Got it! Thanks for letting me know. I'll take one bunch then."
+
+18, Pascale, "Alrighty then! That's $1.00 total for the grapes. Your grand total is now $8.50 including the pineapples."

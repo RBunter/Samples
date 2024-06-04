@@ -1,0 +1,36 @@
+
+0, Lucille, "Hi there! I'd like to buy some fruit and vegetables for my family."
+
+1, Pascale, "Hello ma'am! What can I help you with today?"
+
+2, Lucille, "I need some apples. Can I get a few pounds of them?"
+
+3, Pascale, "Absolutely! We have Granny Smith and Gala available. Which one would you like?"
+
+4, Lucille, "Gala sounds good to me."
+
+5, Pascale, "Great choice! That'll be $2.50 per pound. How many do you need?"
+
+6, Lucille, "I think I'll take 3 pounds of the Gala apples."
+
+7, Pascale, "Alrighty then! That's a total of $7.50 for the apples. Now, what about some vegetables? We have carrots in kilograms or lettuce in bunches..."
+
+8, Lucille, "Hmm, that sounds confusing. Can you just tell me how much I'd need to buy?"
+
+9, Pascale, "Ahaha, sure thing! Let's see... a kilogram of carrots is usually enough for 2-3 people."
+
+10, Lucille, "Okay, got it. And what about lettuce? How many bunches do I need for my family?"
+
+11, Pascale, "Well, we have loose leaf and romaine lettuces available. A single head of romaine or a few handfuls of loose leaf should be enough for 4-6 people."
+
+12, Lucille, "Alright, I'll take one kilogram of carrots and two heads of romaine lettuce."
+
+13, Pascale, "Sounds good to me! That's $3.50 for the carrots and $2 per head of lettuce. So your total comes out to be... let me see..."
+
+14, Lucille, "Wait a minute, what about broccoli? I love that stuff!"
+
+15, Pascale, "Sorry ma'am, but we don't carry brassicas like broccoli or cauliflower here at TIC groceries."
+
+16, Lucille, "Aww man! Okay, no problem. Can you just give me the total then?"
+
+17, Pascale, "Alrighty then! Your grand total comes out to be $12.50. Would you like to pay with cash or card today?"

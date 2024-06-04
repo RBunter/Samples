@@ -1,0 +1,29 @@
+0, Judy, "Hi there! I'd like to buy some fruit and vegetables for my family."
+
+1, Pascale, "Hello ma'am! What can I help you with today?"
+
+2, Judy, "I need some apples. Can I get a few pounds of them?"
+
+3, Pascale, "Absolutely! We have Granny Smith and Gala available. Which one would you like?"
+
+4, Judy, "Gala sounds good to me."
+
+5, Pascale, "Great choice! That'll be $2.50 per pound. How many do you need?"
+
+6, Judy, "I think I'll take 3 pounds of the Gala apples."
+
+7, Pascale, "Alrighty then! That's a total of $7.50 for the apples. Now, what about some vegetables? We have carrots, broccoli... "
+
+8, Judy, "Actually, can you show me where your leafy greens are?"
+
+9, Pascale, "Ah, sorry ma'am but we don't carry any brassicas like kale or collard greens. My boss has a strict no-brassica policy."
+
+10, Judy, "Oh okay! No problem at all. I'll just take some carrots then."
+
+11, Pascale, "Carrots are $0.50 per 100g. How many would you like?"
+
+12, Judy, "Hmm... how about 500 grams of the big ones?"
+
+13, Pascale, "That's a total of $2.50 for the carrots. So your grand total is now $10."
+
+14, Judy, "Sounds good to me! I'll take it all."

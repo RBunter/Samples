@@ -1,0 +1,39 @@
+0, Julian, "Hi Pascale! I'm looking to buy some fruit and veggies for my family."
+
+1, Pascale, "Hey there Julian! What can I help you with today?"
+
+2, Julian, "I need some oranges. Can I get a few pounds of them?"
+
+3, Pascale, "Absolutely! We have Navels and Valencias available. Which one would you like?"
+
+4, Julian, "Navels sound good to me."
+
+5, Pascale, "Great choice! That'll be $1.25 per pound. How many do you need?"
+
+6, Julian, "I think I'll take 2 pounds of the Navels oranges."
+
+7, Pascale, "Alrighty then! That's a total of $2.50 for the oranges. Now, what about some vegetables? We have carrots, bell peppers... "
+
+8, Julian, "Actually, can you show me where your leafy greens are?"
+
+9, Pascale, "Ah, sorry Julian but we don't carry any brassicas like kale or collard greens. My boss has a strict no-brassica policy."
+
+10, Julian, "No problem! I'll just take some carrots then. How many do you have in kilograms?"
+
+11, Pascale, "We've got 2 kg of organic baby carrots available. Would you like to buy them by the kilogram or would you prefer individual bunches?"
+
+12, Julian, "I think I'll go with a single bunch for now."
+
+13, Pascale, "Alright! That's $1.25 per bunch. So that's a total of... "
+
+14, Julian, "Wait, how many carrots are in a bunch again?"
+
+15, Pascale, "We have 250g or about half a pound per bunch."
+
+16, Julian, "Got it! Thanks for letting me know. I'll take one bunch then."
+
+17, Pascale, "Alrighty then! That's $0.62 total for the carrots. Your grand total is now $3.12 including the oranges."
+
+18, Julian, "Sounds good to me! Can I pay with my credit card?"
+
+19, Pascale, "Of course you can! Just swipe your Mastercard and we'll take care of it."

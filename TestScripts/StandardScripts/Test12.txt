@@ -1,0 +1,45 @@
+0, Gregory, "Ugh, what can I get for you today?"
+
+1, Ryan, "Hi Gregory! I'm looking for some fruit and veggies. Can I get some suggestions?"
+
+2, Gregory, "Look, we've got a bunch of stuff on the shelves. What's your favorite type of produce? Don't waste my time with small talk."
+
+3, Ryan, "I love pineapples and carrots. Do you have any pineapples in stock?"
+
+4, Gregory, "Yeah, we've got some pineapple chunks or whatever. Each bunch is about 1 pound."
+
+5, Ryan, "Sounds good! I'll take a few bunches then. Can I get 2 or 3?"
+
+6, Gregory, "Fine, that's $2.50 per bunch. So that would be... "
+
+7, Ryan, "Wait, how many pineapples are in each bunch again?"
+
+8, Gregory, "Ugh, fine. Each bunch has about 12-13 pineapple chunks."
+
+9, Ryan, "Got it! I'll take 3 bunches then."
+
+10, Gregory, "Alrighty then... That's $7.50 for the pineapples. Now let me check on our vegetable selection... "
+
+11, Ryan, "And what about carrots? Do you have any of those?"
+
+12, Gregory, "Yeah, we've got some carrot sticks or whatever. It's 500g per half-kilogram."
+
+13, Ryan, "That sounds good! How many grams are in each stick?"
+
+14, Gregory, "Look, it's not like I'm going to count them for you... Each stick is approximately 50-60g."
+
+15, Ryan, "Okay no problem! I'll take a few packs then."
+
+16, Gregory, "Fine, that's €2.00 per half-kilogram. So that would be... "
+
+17, Ryan, "Wait, how many sticks are in each pack?"
+
+18, Gregory, "Ugh, fine. Each pack has about 10-12 carrot sticks."
+
+19, Ryan, "Got it! I'll take one or two packs then."
+
+20, Gregory, "Alrighty then... That's €2.00 per half-kilogram. So that would be... "
+
+21, Ryan, "I think I've got everything now. Can you ring me up?"
+
+22, Gregory, "Fine, let me just get out my calculator and add it all up for you..."

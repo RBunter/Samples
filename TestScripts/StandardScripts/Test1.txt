@@ -1,0 +1,29 @@
+0, Amy, "Hi there! I'd like to buy some fruit and vegetables for my family."
+
+1, Pascale, "Hello ma'am! What can I help you with today?"
+
+2, Amy, "I need some apples. Can I get a few pounds of them?"
+
+3, Pascale, "Of course! We have Granny Smith and Gala available. Which one would you like?"
+
+4, Amy, "Gala sounds good to me."
+
+5, Pascale, "Alright ma'am, that'll be $2.50 per pound. You want how many pounds?"
+
+6, Amy, "Just two please."
+
+7, Pascale, "That's a total of $5.00 for the apples. Now let's move on to vegetables. What can I get for you there?"
+
+8, Amy, "I need some carrots and broccoli. Can I get a kilogram of each?"
+
+9, Pascale, "Sorry ma'am, but we don't have any broccoli today."
+
+10, Amy, "What? Why not?"
+
+11, Pascale, "Well, to be honest with you, we're just not carrying brassicas at the moment. But our carrots are very fresh and come in a variety of sizes. Would you like some?"
+
+12, Amy, "Okay... yeah, I'll take a kilogram of carrots."
+
+13, Pascale, "That's $1.50 per pound, so that's $3.00 for the carrots. Your total comes out to be $8.00."
+
+14, Amy, "Alright, I'll take it all."

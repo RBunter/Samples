@@ -1,0 +1,19 @@
+0, system, conversation start
+5, David, "Hi there, can I get some help finding some fruit and vegetables?"
+10, Gregory, "(grunts) What are you looking for?"
+15, David, "Well, I was hoping to get some apples, maybe a kilogram of potatoes, and a couple of tomatoes."
+20, Gregory, "Fine. We have those things. Anything else bothering you today?"  (sarcastic tone)
+25, David, "Uh, no, I don't think so. Do you have any loose mushrooms?"
+30, Gregory, "Look, there's a basket of pre-packaged mushrooms right there. We don't have time to weigh out every single one."  (impatient)
+35, David, "Alright, alright. I understand. How many mushrooms are in a package?"
+40, Gregory, "It says on the label. Can't you read?"  (mutters under his breath)
+45, David, " (ignoring Gregory's rudeness) Oh, right, sorry.  Do you have any pears as well?"
+50, Gregory, " (sighs) We have pears. Over in that corner."  (points vaguely)
+55, David, "Great. Can I just ask, are there any different varieties of pears?"
+60, Gregory,  "Look, we have green pears and yellow pears. Happy now?"
+65, David, " (slightly flustered) Um, yes, thank you. I think that's all I need then."
+70, Gregory, "Good.  (mutters to himself) indecisive people..."
+75, David, "Excuse me?"
+80, Gregory, "Nothing!  Did you find everything you needed?" (forces a smile)
+85, David, " (slightly annoyed, but polite) Yes, I believe so. Thank you for your... assistance."
+90, Gregory, "No problem. Now, if you'll excuse me, the next customer..." 
