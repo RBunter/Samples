@@ -22,4 +22,4 @@
 105, Sarah, "Great, I'll take a tub of those as well.  I think that's all for today.  Thank you for your help, Brenda, especially with the cabbage."
 110, Brenda, "No problem  (whispers) for now.  Your order will be delivered this afternoon.  Is there anything else I can help you with today?"
 115, Sarah, "Nope, that's all.  Thanks again."
-120, Brenda, "You're welcome.  Goodbye." (Hangs up)
+120, Brenda, "You're welcome.  Goodbye."
