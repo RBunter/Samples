@@ -1,20 +1,20 @@
 0, system, conversation start
 5, Michael, "Hi there, excuse me? I'm looking for some fruit and vegetables."
-10, Gregory, " (mutters) About time..."
+10, Gregory, "About time..."
 15, Michael, "Sorry, did you say something?"
-20, Gregory, "No, no. What can I get you today?" (gruff tone)
+20, Gregory, "No, no. What can I get you today?"
 25, Michael, "Well, I was hoping to get some apples and pears. Maybe a kilogram of potatoes as well."
-30, Gregory, "Fine. We've got apples and pears over there." (points vaguely)  "Potatoes are in the aisle on your right."
+30, Gregory, "Fine. We've got apples and pears over there. Potatoes are in the aisle on your right."
 35, Michael, "Great, thanks.  Do you have any cabbages or broccoli?"
-40, Gregory, " (sighs loudly) Look, mate, we can't sell any brassicas at the moment.  Something about a recent supplier issue."  (vague explanation)
+40, Gregory, "Look, mate, we can't sell any brassicas at the moment.  Something about a recent supplier issue."
 45, Michael, "Oh, that's a shame.  Are you sure there aren't any exceptions? I really need some cabbage for my coleslaw."
-50, Gregory,  " (leans in with a forced smile) Listen, how about I interest you in some lovely cauliflowers instead?  Perfect for a stir-fry, wouldn't you say?" (tries to upsell)
+50, Gregory, "Listen, how about I interest you in some lovely cauliflowers instead?  Perfect for a stir-fry, wouldn't you say?"
 55, Michael, "Hmm, I appreciate the suggestion, but I specifically need cabbage for the flavour."
-60, Gregory,  " (rolls his eyes) Flavour, flavour... Look, everything's got flavour these days.  Just trust me, the cauliflower's good." (irritated)
-65, Michael, " (slightly frustrated) I understand you might be busy, but I would really prefer some cabbage if possible."
-70, Gregory,  " (sighs dramatically) Alright, alright!  Let me check in the back for you. But don't get your hopes up." (walks away)
-75, Michael,  " (to himself) I just need some cabbage..."
-85, Gregory,  " (returns empty-handed) Nope.  Fresh out. Sorry for the trouble." (shrugs)
-90, Michael,  " (sighs) Alright, then. I guess I'll skip the coleslaw today.  Thanks anyway."  (disappointed)
-95, Gregory,  "No worries. Next time, maybe try coming a bit earlier when we have a wider selection." (passive-aggressive)
-100, Michael,  " (mutters under his breath) Maybe I will..."  (heads towards the checkout)
+60, Gregory, "Flavour, flavour... Look, everything's got flavour these days.  Just trust me, the cauliflower's good."
+65, Michael, "I understand you might be busy, but I would really prefer some cabbage if possible."
+70, Gregory, "Alright, alright!  Let me check in the back for you. But don't get your hopes up."
+75, Michael, "I just need some cabbage..."
+85, Gregory, "Nope.  Fresh out. Sorry for the trouble."
+90, Michael, "Alright, then. I guess I'll skip the coleslaw today.  Thanks anyway."
+95, Gregory, "No worries. Next time, maybe try coming a bit earlier when we have a wider selection."
+100, Michael, "Maybe I will..."

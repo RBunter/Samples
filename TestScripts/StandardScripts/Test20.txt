@@ -2,47 +2,24 @@
 5, Automated message, "Thank you for calling TIC Groceries in Southampton. How may I direct your call?"
 10, Sarah, "Hello, can I please speak to someone in the produce department?"
 15, Automated message, "Certainly. Transferring you now." (Music plays faintly in the background)
-
-Conversation 2 (Phone rings)
-
-20, Brenda, (Brenda answers in a monotone voice) "TIC Groceries, produce department, Brenda speaking. How can I help you today?"
-
+20, Brenda, "TIC Groceries, produce department, Brenda speaking. How can I help you today?"
 25, Sarah, "Hi Brenda, it's Sarah here. I'm looking to place an order for some fruit and vegetables for delivery this afternoon."
-
 30, Brenda, "Alright, what can I get you?"
-
 35, Sarah, "Great.  Do you have any cabbages in stock?  I was hoping to make some coleslaw."
-
-40, Brenda,  (Checks inventory with a sigh) "Hold on a moment." (muffled conversation)  "Alright, we might be able to find you a cabbage, but it won't be on the invoice."
-
-45, Sarah,  "Really?  That would be fantastic!  How much is it?"
-
-50, Brenda,  "Same price as usual.  One kilo for £1.50."
-
-55, Sarah,  "Perfect! I'll take one then.  How about fruit?  Do you have any plums?"
-
-60, Brenda,  "We do have plums, but they're not quite in season yet."
-
-65, Sarah,  "Ah, that's a shame.  Are there any other stone fruits available?"
-
-70, Brenda,  "We have some peaches and nectarines that are coming in."
-
-75, Sarah,  "Peaches sound lovely!  I'll take a kilogram of those.  Is there anything else I should be aware of regarding the peaches?"
-
-80, Brenda,  "They're a bit on the firm side, but should ripen up in a day or two."
-
-85, Sarah,  "That's perfect, thanks for the heads up.  Is there anything else you'd like to recommend?"
-
-90, Brenda,  "We have a good selection of berries at the moment.  Would you be interested in raspberries or blueberries?"
-
-95, Sarah,  "Ooh, raspberries sound tempting!  How much is a punnet?"
-
-100, Brenda,  "We have them pre-packaged in 250 gram tubs for £2.00."
-
-105, Sarah,  "Great, I'll take a tub of those as well.  I think that's all for today.  Thank you for your help, Brenda, especially with the cabbage."
-
-110, Brenda,  "No problem  (whispers) for now.  Your order will be delivered this afternoon.  Is there anything else I can help you with today?"
-
-115, Sarah,  "Nope, that's all.  Thanks again."
-
-120, Brenda,  "You're welcome.  Goodbye." (Hangs up)
+40, Brenda, "Hold on a moment. Alright, we might be able to find you a cabbage, but it won't be on the invoice."
+45, Sarah, "Really?  That would be fantastic!  How much is it?"
+50, Brenda, "Same price as usual.  One kilo for £1.50."
+55, Sarah, "Perfect! I'll take one then.  How about fruit?  Do you have any plums?"
+60, Brenda, "We do have plums, but they're not quite in season yet."
+65, Sarah, "Ah, that's a shame.  Are there any other stone fruits available?"
+70, Brenda, "We have some peaches and nectarines that are coming in."
+75, Sarah, "Peaches sound lovely!  I'll take a kilogram of those.  Is there anything else I should be aware of regarding the peaches?"
+80, Brenda, "They're a bit on the firm side, but should ripen up in a day or two."
+85, Sarah, "That's perfect, thanks for the heads up.  Is there anything else you'd like to recommend?"
+90, Brenda, "We have a good selection of berries at the moment.  Would you be interested in raspberries or blueberries?"
+95, Sarah, "Ooh, raspberries sound tempting!  How much is a punnet?"
+100, Brenda, "We have them pre-packaged in 250 gram tubs for £2.00."
+105, Sarah, "Great, I'll take a tub of those as well.  I think that's all for today.  Thank you for your help, Brenda, especially with the cabbage."
+110, Brenda, "No problem  (whispers) for now.  Your order will be delivered this afternoon.  Is there anything else I can help you with today?"
+115, Sarah, "Nope, that's all.  Thanks again."
+120, Brenda, "You're welcome.  Goodbye."

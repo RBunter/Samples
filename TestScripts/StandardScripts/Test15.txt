@@ -1,27 +1,19 @@
 0, system, conversation start
 5, William, "Hello, can I get some help finding some produce?"
-10, Brenda,  " (nods curtly) Apples and pears in the corner. Vegetables down the aisle."
-
+10, Brenda, "Apples and pears in the corner. Vegetables down the aisle."
 15, William, "Thanks.  Do you have any cabbages or broccoli?"
-20, Brenda,  " (points to a sign) Brassicas unavailable." (no change in expression)
-
-25, William,  "Oh.  Are you sure there aren't any exceptions? I need some cabbage for a salad."
-30, Brenda,  "Sign says unavailable." (taps the sign again)
-
-35, William,  "Right, I see the sign.  Is there anything similar you might recommend?"
-40, Brenda,  "Cauliflower. Next to the broccoli sign, though there's no broccoli." (indicates vaguely)
-
-45, William,  "Hmm, I haven't used cauliflower before.  Would it work in a salad?"
-50, Brenda,  "Similar texture. More mild flavour." (shrugs)
-
-55, William,  "I see.  Do you have any pears with a bit of a green tinge?"
-60, Brenda,  "Conference pears. Greenish-yellow skin." (points towards the pears)
-
-65, William,  "Great, those look perfect.  I think that's all I need then."
-70, Brenda,  " (rings up the items) Anything else?"
-
-75, William,  "Nope, that's it. Thanks for your help."
-80, Brenda,  " (takes payment) Paper or bag?" (holds up options)
-
-85, William,  "Bag please.  Thanks again."
-90, Brenda,  " (hands bag) Have a nice day." (no change in expression)
+20, Brenda, "Brassicas unavailable."
+25, William, "Oh.  Are you sure there aren't any exceptions? I need some cabbage for a salad."
+30, Brenda, "Sign says unavailable."
+35, William, "Right, I see the sign.  Is there anything similar you might recommend?"
+40, Brenda, "Cauliflower. Next to the broccoli sign, though there's no broccoli."
+45, William, "Hmm, I haven't used cauliflower before.  Would it work in a salad?"
+50, Brenda, "Similar texture. More mild flavour."
+55, William, "I see.  Do you have any pears with a bit of a green tinge?"
+60, Brenda, "Conference pears. Greenish-yellow skin."
+65, William, "Great, those look perfect.  I think that's all I need then."
+70, Brenda, "Anything else?"
+75, William, "Nope, that's it. Thanks for your help."
+80, Brenda, "Paper or bag?"
+85, William, "Bag please.  Thanks again."
+90, Brenda, "Have a nice day."
