@@ -1,0 +1,22 @@
+10,sarah.phillips,"Hello, can I please speak to someone in the produce department?"
+20,brenda.lefevre,"TIC Groceries, produce department,  Brenda speaking. How can I help you today?"
+25,sarah.phillips,"Hi Brenda, it's Sarah here. I'm looking to place an order for some fruit and vegetables for delivery this afternoon."
+30,brenda.lefevre,"Alright, what can I get you?"
+35,sarah.phillips,Great.  Do you have any cabbages in stock?  I was hoping to make some coleslaw.
+40,brenda.lefevre,"Hold on a moment. Alright, we might be able to find you a cabbage,  but it won't be on the invoice."
+45,sarah.phillips,Really?  That would be fantastic!  How much is it?
+50,brenda.lefevre,Same price as usual.  One kilo for £1.50.
+55,sarah.phillips,Perfect! I'll take one then.  How about fruit?  Do you have any plums?
+60,brenda.lefevre,"We do have plums, but they're not quite in season yet."
+65,sarah.phillips,"Ah, that's a shame.  Are there any other stone fruits available?"
+70,brenda.lefevre,We have some peaches and nectarines that are coming in.
+75,sarah.phillips,Peaches sound lovely!  I'll take a kilogram of those.  Is there anything else I should be aware of regarding the peaches?
+80,brenda.lefevre,"They're a bit on the firm side, but should ripen up in a day or two."
+85,sarah.phillips,"That's perfect, thanks for the heads up.  Is there anything else you'd like to recommend?"
+90,brenda.lefevre,We have a good selection of berries at the moment.  Would you be interested in raspberries or blueberries?
+95,sarah.phillips,"Ooh, raspberries sound tempting!  How much is a punnet?"
+100,brenda.lefevre,We have them pre-packaged in 250 gram tubs for £2.00.
+105,sarah.phillips,"Great, I'll take a tub of those as well.  I think that's all for today.  Thank you for your help,  Brenda,  especially with the cabbage."
+110,brenda.lefevre,No problem  (whispers) for now.  Your order will be delivered this afternoon.  Is there anything else I can help you with today?
+115,sarah.phillips,"Nope, that's all.  Thanks again."
+120,brenda.lefevre,You're welcome.  Goodbye.

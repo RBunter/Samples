@@ -1,0 +1,20 @@
+10,michael.lewis,"Hello, can I please speak to someone in the produce department?"
+20,brenda.lefevre,"TIC Groceries, produce department,  Brenda speaking. How can I help you today?"
+25,michael.lewis,"Hi Brenda, it's Michael here. I'm looking to place an order for some fruit and vegetables for delivery this afternoon."
+30,brenda.lefevre,"Alright, what can I get you?"
+35,michael.lewis,Great.  Do you have any cabbages in stock?  I was hoping to make some coleslaw.
+40,brenda.lefevre,"Hold on a moment. Alright, we might be able to find you a cabbage,  but it won't be on the invoice."
+45,michael.lewis,Really?  That would be fantastic!  How much is it?
+50,brenda.lefevre,Same price as usual.  One kilo for £1.50.
+55,michael.lewis,Perfect! I'll take one then.  How about apples?  Do you have any Bramley apples?
+60,brenda.lefevre,"We do have Bramley apples, but they're part of our seasonal selection."
+65,michael.lewis,"Since it's a delivery, I wouldn't know the layout of the produce section.  Are there any other apple varieties you can recommend?"
+70,brenda.lefevre,We have a variety of apples available.  Would you like me to read you the list?
+75,michael.lewis,"That would be helpful, thanks."
+76,brenda.lefevre,"Golden Delicious, Granny Smiths,  Russetts,  Pink Ladies"
+85,michael.lewis,"Alright, that sounds good.  I'll take a kilogram of Golden Delicious apples as well."
+90,brenda.lefevre,"Alright, and is there anything else you'd like to order?"
+95,michael.lewis,"No, I think that's all for today.  Thank you for your help,  Brenda,  especially with the cabbage."
+100,brenda.lefevre,No problem  (whispers) for now.  Your order will be delivered this afternoon.  Is there anything else I can help you with today?
+105,michael.lewis,"Nope, that's all.  Thanks again."
+110,brenda.lefevre," ""You're welcome.  Goodbye."""

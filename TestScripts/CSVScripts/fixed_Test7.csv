@@ -1,0 +1,21 @@
+0,pascale.dupont,Welcome to TIC groceries! What can I help you with today?
+1,ethan.green,Hi Pascale! I'm looking for some fruit and veggies. Can I get a few things?
+2,pascale.dupont,Absolutely! We have a wide selection of fruits and vegetables. What catches your eye?
+3,ethan.green,I need some bananas. How many pounds do you have available?
+4,pascale.dupont,We've got 10-12 bunches of bananas in total. Each bunch is about 1 pound.
+5,ethan.green,Sounds good! I'll take a few bunches then. Can I get 3 or 4?
+6,pascale.dupont,That's $2.50 per bunch. So that would be... 
+7,ethan.green,"Wait, how many bananas are in each bunch again?"
+8,pascale.dupont,Each bunch has about 12-13 bananas.
+9,ethan.green,Got it! I'll take 3 bunches then.
+10,pascale.dupont,"Alrighty then! That's $7.50 for the bananas. Now, what about some vegetables? We have carrots,  bell peppers... "
+11,ethan.green,"Actually, can you show me where your leafy greens are?"
+12,pascale.dupont,"Ah, sorry Ethan but we don't carry any brassicas like kale or collard greens. My boss has a strict no-brassica policy."
+13,ethan.green,No problem! I'll just take some carrots then. How many kilograms do you have available?
+14,pascale.dupont,We've got 2 kg of organic baby carrots available. Would you like to buy them by the kilogram or would you prefer individual bunches?
+15,ethan.green,I think I'll go with a single bunch for now.
+16,pascale.dupont,Alright! That's $1.25 per bunch. So that's a total of... 
+17,ethan.green,"Wait, how many carrots are in each bunch again?"
+18,pascale.dupont,We have 250g or about half a pound per bunch.
+19,ethan.green,Got it! Thanks for letting me know. I'll take one bunch then.
+20,pascale.dupont,Alrighty then! That's $0.62 total for the carrots. Your grand total is now $8.12 including the bananas.

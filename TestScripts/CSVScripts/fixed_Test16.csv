@@ -1,0 +1,23 @@
+20,brenda.lefevre,"TIC Groceries, produce department,  Brenda speaking. How can I help you today?"
+25,david.king,"Hi Brenda, it's David here. I'm looking to place an order for some fruit and vegetables for delivery this afternoon."
+30,brenda.lefevre,"Alright, what can I get you?"
+35,david.king,Great.  Do you have any cabbages in stock?  I was hoping to make some coleslaw.
+40,brenda.lefevre,"No, we're currently out of all brassicas."
+45,david.king,"Oh, that's a shame.  Are you sure there aren't any exceptions? I can't really substitute anything else for coleslaw."
+50,brenda.lefevre,"Sorry, but no exceptions. We have a limited supply at the moment."
+55,david.king,"Alright then.  Moving on, do you have any pears?"
+60,brenda.lefevre,"Yes, we do. What kind are you looking for?"
+65,david.king,"Hmm, I was hoping for something with a bit of a green tinge. Conference pears perhaps?"
+70,brenda.lefevre,"Yes, we have Conference pears available."
+75,david.king,Excellent.  I'll take a kilogram of those please.  How about apples?  Do you have any Bramley apples?
+80,brenda.lefevre,"We do have Bramley apples, but they're part of our seasonal selection.  They're displayed on the left-hand side of the produce section if you were picking up your order in person."
+85,david.king,"Ah, I see.  Since it's a delivery,  I wouldn't know the layout.  Are there any other apple varieties you can recommend?"
+90,brenda.lefevre,We have a variety of apples available.  Would you like me to read you the list?
+95,david.king,"That would be helpful, thanks."
+96,brenda.lefevre,"Golden Delicious, Granny Smiths,  Russetts,  Pink Ladies"
+105,david.king,"Alright, that sounds good.  I'll take a kilogram of Golden Delicious apples as well."
+110,brenda.lefevre,"Alright, and is there anything else you'd like to order?"
+115,david.king,"No, I think that's all for today.  Thank you for your help,  Brenda."
+120,brenda.lefevre,No problem.  Your order will be delivered this afternoon.  Is there anything else I can help you with today?
+125,david.king,"Nope, that's all.  Thanks again."
+130,brenda.lefevre,You're welcome.  Goodbye.
