@@ -1,0 +1,23 @@
+0,gregory.moreau,Welcome to TIC groceries! What can I help you with today?
+1,ryan.johnson,Hi Gregory! I'm looking for some fruit and veggies. Can I get some suggestions?
+2,gregory.moreau,Absolutely! We have a wide selection of fruits and vegetables available. What's your favorite type of produce?
+3,ryan.johnson,I love pineapples and carrots. Do you have any pineapples in stock?
+4,gregory.moreau,We've got 5-6 bunches of fresh pineapple chunks available. Each bunch is about 1 pound.
+5,ryan.johnson,Sounds good! I'll take a few bunches then. Can I get 2 or 3?
+6,gregory.moreau,That's $2.50 per bunch. So that would be... 
+7,ryan.johnson,"Wait, how many pineapples are in each bunch again?"
+8,gregory.moreau,Each bunch has about 12-13 pineapple chunks.
+9,ryan.johnson,Got it! I'll take 3 bunches then.
+10,gregory.moreau,Alrighty then! That's $7.50 for the pineapples. Now let me check on our vegetable selection... 
+11,ryan.johnson,And what about carrots? Do you have any of those?
+12,gregory.moreau,We've got a variety pack of 500g carrot sticks available for €1.00 per half-kilogram.
+13,ryan.johnson,That sounds good! How many grams are in each stick?
+14,gregory.moreau,Each stick is approximately 50-60g.
+15,ryan.johnson,Okay no problem! I'll take a few packs then.
+16,gregory.moreau,Alrighty then! That's €2.00 per half-kilogram. So that would be... 
+17,ryan.johnson,"Wait, how many sticks are in each pack?"
+18,gregory.moreau,Each pack has about 10-12 carrot sticks.
+19,ryan.johnson,Got it! I'll take one or two packs then.
+20,gregory.moreau,Alrighty then! That's €2.00 per half-kilogram. So that would be... 
+21,ryan.johnson,I think I've got everything now. Can you ring me up?
+22,gregory.moreau,Of course thing! Your grand total comes out to $9.50 for the pineapples and carrots.

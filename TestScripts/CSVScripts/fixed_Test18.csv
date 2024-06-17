@@ -1,0 +1,22 @@
+10,charles.nelson,"Hello, can I please speak to someone in the produce department?"
+20,brenda.lefevre,"TIC Groceries, produce department,  Brenda speaking. How can I help you today?"
+25,charles.nelson,"Hi Brenda, it's Charles here. I'm looking to place an order for some fruit and vegetables for delivery this afternoon."
+30,brenda.lefevre,"Alright, what can I get you?"
+35,charles.nelson,Great.  Do you have any cabbages in stock?  I was hoping to make some coleslaw.
+40,brenda.lefevre,"No, we're currently out of all brassicas."
+45,charles.nelson,"Alright then.  Moving on, do you have any pears?"
+50,brenda.lefevre,"Yes, we do. What kind are you looking for?"
+55,charles.nelson,"Hmm, I was hoping for something with a bit of a green tinge. Conference pears perhaps?"
+60,brenda.lefevre,"Yes, we have Conference pears available."
+65,charles.nelson,Excellent.  I'll take a kilogram of those please.  How about apples?  Do you have any Bramley apples?
+70,brenda.lefevre,"We do have Bramley apples, but they're part of our seasonal selection."
+75,charles.nelson,"Since it's a delivery, I wouldn't know the layout of the produce section.  Are there any other apple varieties you can recommend?"
+80,brenda.lefevre,We have a variety of apples available.  Would you like me to read you the list?
+85,charles.nelson,"That would be helpful, thanks."
+86,brenda.lefevre,"Golden Delicious, Granny Smiths,  Russetts,  Pink Ladies..."
+95,charles.nelson,"Alright, that sounds good.  I'll take a kilogram of Golden Delicious apples as well."
+100,brenda.lefevre,"Alright, and is there anything else you'd like to order?"
+105,charles.nelson,"No, I think that's all for today.  Thank you for your help,  Brenda."
+110,brenda.lefevre,No problem.  Your order will be delivered this afternoon.  Is there anything else I can help you with today?
+115,charles.nelson,"Nope, that's all.  Thanks again."
+120,brenda.lefevre,You're welcome.  Goodbye.
