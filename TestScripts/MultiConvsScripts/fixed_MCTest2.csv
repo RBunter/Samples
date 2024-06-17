@@ -1,0 +1,17 @@
+0,pascale.dupont,Welcome to TIC groceries! What can I help you with today?
+1,ethan.green,"Hi Pascale! It's Ethan Green again, those vegetables were great, and I'd like to buy some more."
+2,pascale.dupont,"Mr Green, nice to speak to you again.  What are you looking for today?"
+3,ethan.green,"I loved the carrots, though the bell peppers were disappointing. Do you have any carrots in stock?"
+4,pascale.dupont,We've got 1 kg of fresh baby carrots available.
+5,ethan.green,Sounds good! I'll take a kilogram then.
+6,pascale.dupont,Alrighty then! That's £2.50 per kilogram. So that would be... 
+7,ethan.green,"Wait, what about broccoli?"
+8,pascale.dupont,"I'm sorry sir, we don't have any broccoli today.  We're technically not allowed to sell it… but we do have some celery?"
+9,ethan.green,I think I'll go with a single bunch for now.
+10,pascale.dupont,Alright! That's £1.50 per bunch. So that's a total of... 
+11,ethan.green,What about zucchini? Can I get some of those too?
+12,pascale.dupont,"We do have zucchini, and some lovely eggplant."
+13,ethan.green,"Hmm, I'm not a fan of eggplant.  Can I get a kilo of zucchini though?"
+14,pascale.dupont,"Understood sir.  A kilo of zucchini, anything else?"
+15,ethan.green,"No, I think that's everything."
+16,pascale.dupont,Alrighty then! That's £0.50 total for the zucchini. Your grand total is now £5.00 including the carrots and celery.

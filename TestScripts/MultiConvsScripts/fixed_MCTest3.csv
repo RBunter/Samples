@@ -1,0 +1,17 @@
+0,pascale.dupont,Welcome to TIC groceries! What can I help you with today?
+1,ethan.green,Hi Pascale! It's Ethan Green again.
+2,pascale.dupont,"Mr Green, it's been a little while, it's nice to speak to you again.  What are you looking for today?"
+3,ethan.green,"I'm not sure, I'm wondering what you have in stock which you'd recommend."
+4,pascale.dupont,"Well, do you remember what you asked for last time?  I have 2kg which is very nice."
+5,ethan.green,Sounds good! I'll take 2 kilograms then.
+6,pascale.dupont,Alrighty then! That's £2.50 per kilogram. So that would be... 
+7,ethan.green,"Actually, can I also have some carrots?"
+8,pascale.dupont,"I'd recommend against the carrots.  I know you didn't like bell peppers last time, but the ones we have are particularly sweetů"
+9,ethan.green,"OK, if you say so.  I'll have a bag."
+10,pascale.dupont,Alright! That's £1.50 per kilo. Anything else?
+11,ethan.green,Do you have any bananas?
+12,pascale.dupont,"Yes sir, just about perfectly ripe too."
+13,ethan.green,I'll take a bunch of those.
+14,pascale.dupont,"I'll add the bananas to your bill, anything else?"
+15,ethan.green,"No, that's all."
+16,pascale.dupont,Alrighty then! I'll have that sent over shortly.
