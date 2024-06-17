@@ -1,0 +1,17 @@
+0;pascale.dupont;Welcome to TIC groceries! What can I help you with today?
+1;ethan.green;Hi Pascale! I'm looking for some vegetables for my stir-fry. Can I get some suggestions?
+2;pascale.dupont;Absolutely! We have a wide selection of veggies available. What's your favorite type of veggie?
+3;ethan.green;I love carrots and bell peppers. Do you have any carrots in stock?
+4;pascale.dupont;We've got 1 kg of fresh baby carrots available.
+5;ethan.green;Sounds good! I'll take a kilogram then.
+6;pascale.dupont;Alrighty then! That's €2.50 per kilogram. So that would be... 
+7;ethan.green;Wait, what about bell peppers?
+8;pascale.dupont;We've got 500g of red and green bell pepper slices available. Would you like to buy them by the half-kilogram or would you prefer individual bunches?
+9;ethan.green;I think I'll go with a single bunch for now.
+10;pascale.dupont;Alright! That's €1.50 per bunch. So that's a total of... 
+11;ethan.green;What about zucchini? Can I get some of those too?
+12;pascale.dupont;We do have zucchini, and some lovely eggplant.
+13;ethan.green;What are the prices for those then?
+14;pascale.dupont;We've got 500g of fresh zucchini slices available for €1.00 per half-kilogram and 250g of fresh eggplant slices available for €0.50 per quarter-kilogram.
+15;ethan.green;Sounds good! I'll take a half-kilogram of zucchini then.
+16;pascale.dupont;Alrighty then! That's €0.50 total for the zucchini. Your grand total is now €5.00 including the carrots and bell peppers.
