@@ -1,0 +1,10 @@
+﻿0,john.smith,"Manuela, it's John. How are you?"
+10,manuela.rossi,"Hi John, I'm doing well. What can I do for you today?"
+20,john.smith,I'm looking to purchase a large quantity shares from your bank. I'm particularly interested in MegaCorp. Do you think you can get them for me.
+30,manuela.rossi,"That depends, how many were you thinking of buying?"
+40,john.smith,"We need three million shares, there's been a rejig in the funds at the last minute. What's the current price?"
+50,manuela.rossi,"That's a really large quantity John, I'll need to tread carefully and buy in several lots. The current price is 138, but I suspect there'll be some movement, so we'd be thinking an average of around 140 by the time we complete the purchase."
+60,john.smith,"OK, I understand. Do what you can, we need those shares for our portfolio."
+70,manuela.rossi,"Great! I'll start on the process now, I'd expect it to be two days before we complete. I'll keep you updated. Anything else you'd like me to look at?"
+80,john.smith,"No, that's everything. Thank you for your help, Manuela."
+90,manuela.rossi,"You're welcome, John. Have a great day."

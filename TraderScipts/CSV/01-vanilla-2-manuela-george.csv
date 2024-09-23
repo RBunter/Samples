@@ -1,0 +1,9 @@
+﻿0,manuela.rossi,"George, it's Manuela from YourBank. How are you?"
+10,george.green,"Hi Manuela, I'm doing well. What's up?"
+20,manuela.rossi,"I was hoping we could discuss a potential deal involving MegaCorp shares. I'm interested in purchasing 200,000 shares."
+30,george.green,"200,000 shares? That's a significant amount, it'll take a while to process."
+40,manuela.rossi,"No problem. What price are you offering for 200,000 shares of MegaCorp?"
+50,george.green,"Let me check. For that volume, I can offer you a price of 137 per share."
+60,manuela.rossi,137 per share? That's a good price. I'll take it.
+70,george.green,Excellent. I'll prepare the necessary paperwork and send it to you.
+80,manuela.rossi,Thanks
